@@ -1,0 +1,64 @@
+.logo {
+  color: #541bed;
+}
+.contact-btn {
+  background-color: #541bed;
+}
+.contact-btn:hover {
+  color: white;
+  background-color: #7f56ed;
+}
+.caurosel-con {
+  height: 480px;
+  width: 100%;
+}
+.caurosel-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.4);
+}
+.caption-con {
+  margin-top: 170px;
+}
+.pink {
+  color: #541bed;
+}
+#group-image-con {
+  width: 100%;
+}
+#group-image {
+  width: 100%;
+  object-fit: cover;
+}
+
+#bg {
+  background-color: #e7fdd6;
+}
+#card-image {
+  width: 100%;
+  object-fit: cover;
+}
+#mapping {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#map {
+  object-fit: cover;
+}
+#service-card {
+  transition: 0.7s;
+}
+#service-card:hover {
+  transform: translateY(-10px);
+}
+#card-body {
+  transition: 0.5s;
+}
+#card-body:hover {
+  background-color: #e7fdd6;
+}
+.contact {
+  flex-direction: column;
+}

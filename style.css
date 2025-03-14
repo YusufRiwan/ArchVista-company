@@ -1,0 +1,19 @@
+.img-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0px;
+  height: 100vh;
+}
+
+#img {
+  width: 100%;
+  object-fit: cover;
+  display: block;
+  max-width: 400px;
+}
+body {
+  background-color: #541bed;
+}
+
